@@ -1,6 +1,6 @@
 # Portfolio
 
-Ini merupakan kumpulan portofolio proyek yang pernah saya kerjakan dengan menggunakan data yang dapat ditemukan di Kaggle dan beberapa website lainnya. Portofolio ini terdiri dari berbagai masalah dari bermacam-macam industri dan menggunakan pendekatan dan algoritma yang berbeda untuk menyelesaikan masalah tersebut. Portofolio ini dibagi menjadi tiga bagian: beginner, intermediate, advanced. 
+This is my machine learning portofolio that I have done using data that can be found from Kaggle and other websites. This portofolio include many problems from different industry and use different algorithm approach to solve the problems. I devide the portofolio into 3 parts: **Beginners, Intermediate, Advanced** machine learning project.
 
 ---
 ### Beginners Machine Learning Project
