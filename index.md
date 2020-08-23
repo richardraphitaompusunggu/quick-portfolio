@@ -3,11 +3,11 @@
 This is my machine learning portofolio that I have done using data that can be found from Kaggle and other websites. This portofolio include many problems from different industry and use different algorithm approach to solve the problems. I devide the portofolio into 3 parts: **Beginners, Intermediate, Advanced** machine learning project.
 
 ---
-[**Beginners Machine Learning Project**](/beginners_dsml_page.md)
+[Beginners Machine Learning Project](/beginners_dsml_page.md)
 
-[**Intermediate Machine Learning Project**](/intermediate_dsml_page.md)
+[Intermediate Machine Learning Project](/intermediate_dsml_page.md)
 
-[**Advamced Machine Learning Project**](/advanced_dsml_page.md)
+[Advamced Machine Learning Project](/advanced_dsml_page.md)
 
 
 ---
