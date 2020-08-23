@@ -5,6 +5,7 @@ Ini merupakan kumpulan portofolio proyek yang pernah saya kerjakan dengan menggu
 ---
 ### Beginners Machine Learning Project
 
+[Beginners Machine Learning Project](/beginners_dsml_page.md)
 [Iris Flowers Classification Project](/sample_page.md)
 <img src="images/iris_data_distribution_species.png?raw=true"/>
 **Industry**:
