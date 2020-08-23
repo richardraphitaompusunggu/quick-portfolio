@@ -5,7 +5,7 @@ Ini merupakan kumpulan portofolio proyek yang pernah saya kerjakan dengan menggu
 ---
 ### Beginners Machine Learning Project
 
-[Iris Flowers Classification Project](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Iris%20Species/Untitled1.ipynb)
+[Iris Flowers Classification Project](/sample_page.md)
 <img src="images/iris_data_distribution_species.png?raw=true"/>
 **Industry**:
 **Model**: Supervised - Classification
