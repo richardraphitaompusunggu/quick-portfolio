@@ -11,3 +11,9 @@
 **Model**: Supervised - Classification
 
 **Explanation**: In this project, I will create a model that can classify each data into their class and calculate the accuracy from the model. The algorithm that I used are: Logistic Regression, SVC, Decision Tree, KNN, and Naive Bayes.
+
+[3. Boston House Price Project](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Boston%20House%20Price/Boston%20House%20Price.ipynb)
+<img src="images/data_correlation_boston_price.png?raw=true"/>
+**Model**: Supervised - Regression
+
+**Explanation**: In this project, I will create a model that can classify each data into their class and calculate the accuracy from the model. The algorithm that I used are: Linear Regression, Decision Tree, SVR.
