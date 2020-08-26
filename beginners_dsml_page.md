@@ -18,7 +18,7 @@
 
 **Explanation**: In this project, I will create a model that can classify each data into their class and calculate the accuracy from the model. The algorithm that I used are: Linear Regression, Decision Tree, SVR.
 
-[4. Red Wine Quality Project]()
+[4. Red Wine Quality Project](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Wine%20Quality/Wine%20Quality.ipynb)
 <img src="images/data_distribution_wine_quality_2.png?raw=true"/>
 **Model**: Supervised - Classification
 
