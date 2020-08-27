@@ -1,7 +1,8 @@
 # Intermediate Machine Learning Project
 
-[1. project name]()
-<img src="images/iris_data_distribution_species.png?raw=true"/>
-**Model**: Supervised - Classification
+[1. Uber Pickups Project](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Uber%20Pickup/Uber%20Pickup.ipynb)
+<img src="images/data_uber_1.png?raw=true"/>
+<img src="images/data_uber_2.png?raw=true"/>
+**Model**: Supervised - Time Series
 
-**Explanation**: In this project, I will create a model that can classify each data into their class and calculate the accuracy from the model. The algorithm that I used are: Logistic Regression, SVC, Decision Tree, KNN, and Naive Bayes.
+**Explanation**: ---.
