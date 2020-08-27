@@ -25,7 +25,7 @@
 **Explanation**: In this project, I will create a model that can classify each data into their class and calculate the accuracy from the model. The algorithm that I used are: Logistic Regression, SVC, Decision Tree, KNN, and Naive Bayes.
 
 [5. Stock Market Price - Amazon Project](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Huge%20Stock%20Market/Stock%20Market%20Price.ipynb)
-<img src="images/data_average_open_price.png?raw=true"/>
+<img src="images/data_average_open_price_1.png?raw=true"/>
 **Model**: Supervised - Time Series Forecasting
 
 **Explanation**: In this project, I will create a model that can forecast the stock price. The algorithm that I used are: ARIMA.
