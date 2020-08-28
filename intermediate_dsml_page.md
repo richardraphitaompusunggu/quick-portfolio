@@ -6,3 +6,9 @@
 **Model**: Supervised - Time Series
 
 **Explanation**: ---.
+
+[2. Mall Customer Segmentation Project](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Mall%20Customer/Mall%20Customer.ipynb)
+<img src="images/data_clustering_mall_cust.png?raw=true"/>
+**Model**: Unsupervised - Clustering
+
+**Explanation**: In this project, I made customer segmentation using clustering algorithm from scikit learn.
