@@ -88,26 +88,19 @@ This is my machine learning portofolio that I have done using data that can be f
 
 **Description:** In this project, I will try to make Exploratory Data Analysis (EDA) and create positioning based on GDP and number suicide/100k population. Also create clustering using Clustering algorithm.
 
-[15. Uber Pickup](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Uber%20Pickup/Uber%20Pickup.ipynb)
-<img src="images/data_uber_1.png?raw=true"/>
-<img src="images/data_uber_2.png?raw=true"/>
-**Task:**
-
-**Description:**
-
-[16. Video Games Sales](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Video%20Games%20Sales/Video%20Games%20Sales.ipynb)
+[15. Video Games Sales](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Video%20Games%20Sales/Video%20Games%20Sales.ipynb)
 <img src="images/data_video_game_sales.png?raw=true"/>
 **Task:** EDA
 
 **Description:** In this project, I will try to make Exploratory Data Analysis (EDA) and get insight which genre and publisher that create highest revenue.
 
-[17. Wine Quality](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Wine%20Quality/Wine%20Quality.ipynb)
+[16. Wine Quality](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Wine%20Quality/Wine%20Quality.ipynb)
 <img src="images/data_distribution_wine_quality_2.png?raw=true"/>
 **Task:** EDA, Classification
 
 **Description:** In this project, I will try to make Exploratory Data Analysis (EDA) and Classification model to classify if the wine has good quality or not.
 
-[18. World Happiness Report](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/World%20Happiness%20Report/World%20Happiness%20Report.ipynb)
+[17. World Happiness Report](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/World%20Happiness%20Report/World%20Happiness%20Report.ipynb)
 <img src="images/data_world_happiness.png?raw=true"/>
 **Task:** EDA, Regression
 
