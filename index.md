@@ -1,6 +1,6 @@
 # Portfolio
 
-This is my machine learning portofolio that I have done using data that can be found from Kaggle and other websites. This portofolio include many problems from different industry and use different algorithm approach to solve the problems. I devide the portofolio into 3 parts: **Beginners, Intermediate, Advanced** machine learning project.
+This is my machine learning portofolio that I have done using data that can be found from Kaggle and other websites. This portofolio include many problems from different industry and use different algorithm approach to solve the problems.
 
 ---
 [1. Avocado Prices](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Avocado%20Prices/Avocado%20Prices.ipynb)
@@ -66,27 +66,27 @@ This is my machine learning portofolio that I have done using data that can be f
 
 [11. Loan Prediction](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Loan%20Prediction%20Dataset/Loan%20Prediction%20Problem.ipynb)
 <img src="images/data_distribution_loan_status.png?raw=true"/>
-**Task:**
+**Task:** EDA, Classification
 
-**Description:**
+**Description:** In this project, I will try to make Exploratory Data Analysis (EDA) and Classification model to classify if we can give loan to our customers or not.
 
 [12. Mall Customer](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Mall%20Customer/Mall%20Customer.ipynb)
 <img src="images/data_clustering_mall_cust.png?raw=true"/>
-**Task:**
+**Task:** EDA, CLustering
 
-**Description:**
+**Description:** In this project, I will try to make Exploratory Data Analysis (EDA) and clustering using Clustering algorithm. We can use the cluster as customers segmentation and give advertising based on the clusters.
 
 [13. Pokemon With Stats](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Pokemon%20With%20Stats/Pokemon%20With%20Stats.ipynb)
 <img src="images/data_pokemon.png?raw=true"/>
-**Task:**
+**Task:** EDA, Clustering
 
-**Description:**
+**Description:** In this project, I will try to make Exploratory Data Analysis (EDA) and create positioning based on number attacks and defense for each generation. Also create clustering using Clustering algorithm.
 
 [14. Suicide Rates](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Suicide%20Rates/Suicide%20Rates.ipynb)
 <img src="images/data_suicide.png?raw=true"/>
-**Task:**
+**Task:** EDA, Clustering
 
-**Description:**
+**Description:** In this project, I will try to make Exploratory Data Analysis (EDA) and create positioning based on GDP and number suicide/100k population. Also create clustering using Clustering algorithm.
 
 [15. Uber Pickup](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Uber%20Pickup/Uber%20Pickup.ipynb)
 <img src="images/data_uber_1.png?raw=true"/>
@@ -97,21 +97,21 @@ This is my machine learning portofolio that I have done using data that can be f
 
 [16. Video Games Sales](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Video%20Games%20Sales/Video%20Games%20Sales.ipynb)
 <img src="images/data_video_game_sales.png?raw=true"/>
-**Task:**
+**Task:** EDA
 
-**Description:**
+**Description:** In this project, I will try to make Exploratory Data Analysis (EDA) and get insight which genre and publisher that create highest revenue.
 
 [17. Wine Quality](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/Wine%20Quality/Wine%20Quality.ipynb)
 <img src="images/data_distribution_wine_quality_2.png?raw=true"/>
-**Task:**
+**Task:** EDA, Classification
 
-**Description:**
+**Description:** In this project, I will try to make Exploratory Data Analysis (EDA) and Classification model to classify if the wine has good quality or not.
 
 [18. World Happiness Report](https://github.com/richardraphitaompusunggu/datascience_and_machinelearning/blob/master/World%20Happiness%20Report/World%20Happiness%20Report.ipynb)
 <img src="images/data_world_happiness.png?raw=true"/>
-**Task:**
+**Task:** EDA, Regression
 
-**Description:**
+**Description:** In this project, I will try to make Exploratory Data Analysis (EDA) and Regression model to calculate/estimate the happiness score for each country based on input variables.
 
 
 ---
